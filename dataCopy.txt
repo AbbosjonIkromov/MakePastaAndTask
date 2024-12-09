@@ -1,0 +1,74 @@
+The 144BBS List is a collection of numbers reported as belonging to
+   US BBSes with one or more lines supporting v.32bis, v.fast class and
+   v.34 CONNECTs.
+ - 144BBS List is compiled and maintained by Ken Sukimoto, SysOp of the
+   DownTown BBS as a service to DownTown BBS subscribers and other
+   callers and is published on an irregular basis although we try to
+   have a new release on the first of each month.
+ - 144BBS List is also available as a comma delimited file for those of
+   you using BBS doors for online display and/or in need of info for
+   database applications. This file is distributed as 144BBS.DB.
+This is not intended to be an advertising list. With the way BBS's
+   change, there is no way I or most anyone else could keep up with
+   software/hardware changes, doorways added/deleted, specialties of the
+   BBS and other features that make a BBS unique. This would also make
+   144BBS even larger than it currently is and just one more opportunity
+   to be inaccurate.
+ - Although it is the goal, 144BBS is not comprehensive. I am quite sure
+   there are a lot of BBS's that have been omitted - rather than attempt
+   to guess at BBS names/numbers/cities and modem types, I am depending
+   on reliable sources to submit these missing BBS's and accurate
+   information about them.
+Since the content of 144BBS is for the most part public knowledge, no
+   formal copyright for content is applied for.
+ - I'm not even sure that the name "144BBS" isn't already copyrighted;
+   if it isn't, then that is the only copyright claimed.
+ - Rather than legalese and restrictions, I request common courtesy in
+   the distribution of 144BBS List.
+ - No fee should be charged for 144BBS List other than normal system
+   access requirements.
+144BBS List is dedicated to the SysOps who install high speed modems,
+   enabling users to access systems at higher and higher speeds. It is
+   also dedicated to these same users who motivated the SysOps to
+   install these modems through their contributions; material,
+   inspirational and otherwise.
+ - Thanks go to the SysOps, Users and Administrators of U'NI Net,
+   SmartNet, MajorNet and Intelec for their help and the use of their
+   networks to gather information for this list.
+MUSH FACE:
+This game is a game that has caught on among some children in England and
+South America.	The rules are simple.  While the elves are eating, suddenly
+someone yells "Mush Face!"  It's amazing to watch the mad scramble that
+follows.  The elves grab their food--and everyone else's--and do all they
+can to get it all over the other fellow's face.  The elf who ends up with
+the cleanest face is the winner.  As far as Mrs. Santa is concerned, this is
+her least favorite elvish game.
+
+BIG BALL:
+No one is sure who invented this game--but once the idea gets out, it will
+surely spread from Pole to Pole.  In Big Ball, the first elf (usually
+selected by drawing sticks--the one with the short stick gets to go first)
+climbs into the ball.  Then the other elves seal it up.  Don't worry--
+there's plenty of air in the ball!  Once the elf is comfortable in the ball,
+his companions start to roll it around.  They roll and roll, over snowbanks,
+across the garden, down ice hills.  When the elf inside finally starts to
+moan, they stop and pull him out.  The elf who can roll around the longest
+without moaning is the winner.
+
+HIDE AND SEEK:
+Elves play hide and seek the way everyone else does--except that they can
+hide anywhere!	Raful, for instance, was once found in Cincinnati under a
+garbage can--fourteen weeks after the game started!  And Fringle once hid
+so well that he had to go into hibernation in Mexico.  The other players
+found him that following June.
+
+HOPSCOTCH:
+The elves introduced this game to the North Pole, but now it's been adopted
+by Santa and Mrs. Santa.  Santa first played the game in the late 1700s--
+and beat even the best elves.  Then Mrs. Santa played him -- and won!  Pretty
+soon it had turned into a real contest, to see who could win the most times
+at hopscotch.  For quite a while Santa had a real winning streak.  He and
+Mrs. Santa would play every day (except for Christmas season) and Santa
+won 1329 times in a row.  But then Mrs. Santa changed her strategy.  Now
+she has a slight edge on Santa.  The overall score is: Mrs. Santa - 31,222
+Santa -- 30,961.  The elves dropped out of the contest quite e
